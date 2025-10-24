@@ -1,5 +1,5 @@
 
-![ScrapyX]([https://media-hosting.imagekit.io/d4c1f09528e7419e/scrapyXcover.png?Expires=1838749017&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uX0tlVElUeiXSYcPUn2OoFOIgmAHZdrE0f5pcL9AHJAkj15zdM-u1onO9xJtLaoU0-uuAROKTQMlkcZGpP87OZysx5-8~JBj9vn0t9LI9NmYPH8wGIxD4FaFmP6kbTcU-vchwYCMGU2sFkwyDvum9Em1ZVR4uRpjNHFsXyPybeh49V2L1xFD5iJncV4dcAWd-JP1XGH0dnbaYiXSeZzScTEu93IWlVMnV3aD1pmuDG1JLeru72a6jqIBUeCsyxbimzMkBDmUuQC~KQ1yAnFhuGiJyp4g0VGrVS~AJPjSI8tVN7bu9brGsVxWuJY~Jd21jX6LM8sKH5RdHHiiQ1FF1g__](https://raw.githubusercontent.com/itzdarklucifer/ScrapyX/refs/heads/main/scrapyXcover.png))
+![ScrapyX](https://raw.githubusercontent.com/itzdarklucifer/ScrapyX/refs/heads/main/scrapyXcover.png)
 
 
 # ScrapyX
